@@ -28,7 +28,7 @@ The CSV Data Analyzing Tool is a versatile utility that allows you to analyze an
 1. Clone this repository to your local machine.
 
 ```shell
-git clone https://github.com/ShivankK26/Data-Analyzing-Tool.git
+git clone https://github.com/Shrishti2418/Data-Analyzing-Tool.git
 ```
 
 2. Install the required Python packages.
