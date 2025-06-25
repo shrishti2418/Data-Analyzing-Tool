@@ -57,7 +57,3 @@ streamlit run app.py
 4. The tool will utilize LangChain, Pandas, and the OpenAI API to provide answers and insights.
 5. Explore your data and gain valuable information from it.
 
-## Contributions
-
-We welcome contributions from the community to enhance and expand this project. Please follow our [contribution guidelines](CONTRIBUTING.md) to get started.
-
