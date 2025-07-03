@@ -13,5 +13,4 @@ def query_agent(data, query):
     # Create pandas dataframe agent.
     agent = create_pandas_dataframe_agent(llm, df, verbose=True)
 
-    # Python REPL: 
     return agent.run(query)
